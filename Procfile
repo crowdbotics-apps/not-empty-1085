@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT not_empty_1085.wsgi:application
